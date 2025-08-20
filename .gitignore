@@ -1,0 +1,17 @@
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Node modules (αν χρησιμοποιείς JavaScript/Node)
+node_modules/
+
+# Zip / backup αρχεία
+*.zip
+
+# IDE / Editor files (προαιρετικά)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
