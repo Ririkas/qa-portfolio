@@ -1,0 +1,3 @@
+ID, Title, Precondition, Steps, Expected Result, Status
+TC01, Search Article, App installed, Open app and search 'QA Testing', Article appears with relevant content, Not Executed
+TC02, Save Article, User logged in, Tap 'Save' on an article, Article is added to saved list, Not Executed

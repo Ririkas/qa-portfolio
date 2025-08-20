@@ -1,0 +1,4 @@
+ID, Title, Precondition, Steps, Expected Result, Status
+TC01, Valid Login, User at login page, Enter valid username & password and click Login, User is logged in and redirected to products page, Not Executed
+TC02, Invalid Login, User at login page, Enter invalid username & password and click Login, Error message is displayed, Not Executed
+TC03, Add Product to Cart, User logged in, Select a product and click "Add to Cart", Product appears in cart, Not Executed
